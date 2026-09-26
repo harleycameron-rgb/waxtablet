@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "WAX TABLET — An Archive of Invariant Media Systems"
+message: "If you use this project in your research, please cite it as below."
+type: software
+authors:
+  - family-names: "Cameron"
+    given-names: "Harley"
+    orcid: ""
+repository-code: "https://github.com/harleycameron-rgb/waxtablet"
+homepage: "https://waxtablet.co.uk"
+license: "CC-BY-4.0"
+date-released: 2026-09-26
+keywords:
+  - media systems
+  - archive
+  - invariant
+  - digital culture
+  - web archiving
