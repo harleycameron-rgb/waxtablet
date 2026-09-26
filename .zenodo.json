@@ -1,0 +1,22 @@
+{
+  "title": "WAX TABLET — An Archive of Invariant Media Systems",
+  "description": "WAX TABLET is a web-based archive documenting invariant media systems and their cultural-technical significance. This repository contains the complete source code and documentation for waxtablet.co.uk.",
+  "creators": [
+    {
+      "name": "Cameron, Harley",
+      "affiliation": ""
+    }
+  ],
+  "keywords": [
+    "media systems",
+    "archive",
+    "invariant",
+    "digital culture",
+    "web archiving"
+  ],
+  "license": "CC-BY-4.0",
+  "language": "eng",
+  "access_right": "open",
+  "upload_type": "software",
+  "publication_date": "2026-09-26"
+}
